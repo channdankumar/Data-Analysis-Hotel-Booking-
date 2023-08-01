@@ -6,10 +6,10 @@ Data Analysis Project Steps:
 4. Analyze the data to get useful insights.
 5. Present the data in terms of reports or dashboards using visualization.
 
-0:00 - Project Introduction
-2:50 - Data Analysis Project Steps
-7:48 - Understanding the Business Problem
-16:06 - Data Analysis using python 
-59:53 - Report Making
+1- Project Introduction
+2 - Data Analysis Project Steps
+3 - Understanding the Business Problem
+4 - Data Analysis using python 
+5 - Report Making
 
 Objective : The aim of the data analysis project using Python would be to identyfy opportunity rate on low booking hotel rooms ,Which can ultimately lead to increase profatiblity for the Hotel Booking.
